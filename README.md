@@ -55,7 +55,7 @@ BCH is a **unified collaboration and orchestration system** bringing together sp
 
 ---
 
-## 🔐 Innovation: Base-Prime Encryption
+## 🔐 Innovation: Base-Prime Cryptographic System
 
 Inventor of **Base-Prime**, a revolutionary ternary coding and encryption method operating on **2/3/5 logic**.
 
@@ -70,11 +70,11 @@ Traditional Binary: | 0 ──────────── 1 |
 
 Base-Prime Ternary: | 0 ──── 1 ──── 2 |
 
-____________________ | ↓______↓______↓ |
+______________________ | ↓______↓______↓ |
 
-___________________ | 2 ←────┴────→ 5 |
+____________________ | 2 ←────┴────→ 5 |
 
-_____________________ | (Superposition) |
+_______________________ | (Superposition) |
 
 ---
 
