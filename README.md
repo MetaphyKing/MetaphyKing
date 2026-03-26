@@ -1,25 +1,20 @@
-<!-- RANDOM_VIDEO_START -->
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/0a4ae2e4-9ef1-47d7-bd20-cdf29cd13102"
-    poster="https://github.com/user-attachments/assets/113ea173-bc28-4898-ace2-be41e9511e75"
-    muted="muted"
-    autoplay="autoplay"
-    loop="loop"
-    playsinline
-    controlslist="nodownload"
-    style="width: 100%; max-width: 800px; height: auto; border-radius: 10px; display: block;">
-    <img src="https://github.com/user-attachments/assets/113ea173-bc28-4898-ace2-be41e9511e75" style="width: 100%; max-width: 800px; border-radius: 10px;">
-  </video>
+  <img src="https://raw.githubusercontent.com/MetaphyKing/MetaphyKing/main/assets/Metaphy%20City%20Skyline.webp" alt="Metaphy City Skyline" width="100%" style="max-width: 1200px;">
 </div>
-<!-- RANDOM_VIDEO_END -->
 
-# 👨‍💻 Randell Logan Smith
+<div align="center">
+<h1 style="text-align:center;">👨‍💻 Randell Logan Smith</h1>
+</div>
 
-## | Inventor | AI Developer | Founder |
+<div align="center">
+<h2 style="link-align:center;">| Inventor | AI Developer | Founder |</h2>
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/randell-logan-smith/)
-[![Website](https://img.shields.io/badge/Website-Visit-green?style=flat&logo=google-chrome)](https://metaphysicsandcomputing.com)
-[![X](https://img.shields.io/badge/X-Follow-black?style=flat&logo=x)](https://x.com/MetaphyKing)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/randell-logan-smith/) &nbsp; [![Website](https://img.shields.io/badge/Website-Visit-green?style=flat&logo=google-chrome)](https://metaphysicsandcomputing.com) &nbsp; [![X](https://img.shields.io/badge/X-Follow-black?style=flat&logo=x)](https://x.com/MetaphyKing)
+
+</div>
 
 Welcome to my GitHub profile! I'm Randell Logan Smith, Founder of **Metaphy LLC**, a passionate AI developer and innovator for the healthcare industry. I specialize in AI tool development, creative deployment of multimodal collectives, and building intelligent automation solutions for business operations using a multi-environmental AI stack (**Team Brain**) and a sophisticated orchestration AI layer that coordinates multi-agent workflows, maintains permanent memory, manages context persistence, and enables seamless cross-environment communication between AI models for complex problem-solving and automated task execution.
 
@@ -96,7 +91,7 @@ ________________________ | (Superposition) |
 
 ## 🧪 Personal Projects
 
-Explore my research and development projects featured on [MetaphysicsandComputing.com](https://metaphysicsandcomputing.com) and [@MetaphyKing on X](https://x.com/MetaphyKing):
+Explore my research and development projects featured on [MetaphysicsandComputing.com](https://metaphysicsandcomputing.com) and [@MetaphyKing](https://x.com/MetaphyKing) on X:
 
 ### Featured Research
 
@@ -186,7 +181,7 @@ Quantum computing framework leveraging universal array structures for distribute
 | Platform      | Link                                                         |
 | ------------- | ------------------------------------------------------------ |
 | 💻 GitHub      | [MetaphyKing](https://github.com/MetaphyKing)                  |
-| 🌐 Website     | [MetaphysicsandComputing.com](https://metaphysicsandcomputing.com) |
+| 🌐 Website     | [MetaphysicsandComputing](https://metaphysicsandcomputing.com) |
 | 💼 LinkedIn    | [Randell Logan Smith](https://www.linkedin.com/in/randell-logan-smith/) |
 | 🐦 X (Twitter) | [@MetaphyKing](https://x.com/MetaphyKing)                    |
 
