@@ -2,12 +2,17 @@ name: Update Random Video Banner
 
 on:
   schedule:
-    - cron: '0 */6 * * *'    # Runs every 6 hours (change as you like)
-  workflow_dispatch:         # Allows manual trigger from GitHub UI
+    - cron: '0 */6 * * *'    # every 6 hours — change if you want
+  workflow_dispatch:         # allows manual run from GitHub UI
+
+# This is the critical line that fixes exit code 128
+permissions:
+  contents: write
 
 jobs:
   update:
     runs-on: ubuntu-latest
+
     steps:
       - uses: actions/checkout@v4
         with:
