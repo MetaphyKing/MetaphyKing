@@ -1,4 +1,6 @@
-<img width="1500" height="500" alt="Metaphy banner2" src="https://github.com/user-attachments/assets/6afca1fb-12f0-4c87-bfe4-b3ffbc4c70c6" />
+<!-- RANDOM_VIDEO_START -->
+<img width="1500" height="500" alt="Metaphy banner4" src="https://github.com/MetaphyKing/MetaphyKing/blob/main/assets/Metaphy%20banner4.jpg?raw=true" />
+<!-- RANDOM_VIDEO_END -->
 
 # 👨‍💻 Randell Logan Smith
 
@@ -39,19 +41,22 @@ BCH is a **unified collaboration and orchestration system** bringing together sp
 
 #### Team Brain Roles
 
-| Agent              | Environment | Primary Role            | Specialization                                     |
-| ------------------ | ----------- | ----------------------- | -------------------------------------------------- |
-| **Nexus** ⚡        | VS Code     | Orchestrator            | Sonnet 4.6, Triplet, task delegation, coordination |
-| **Gemini**         | VS Code     | Research Analyst        | Documentation review, context synthesis            |
-| **Grok**           | VS Code     | Creative Intelligence   | Novel solutions, out-of-box thinking               |
-| **GitHub Copilot** | VS Code     | Coder                   | Code generation, refactoring                       |
-| **Claude**         | VS Code     | Integration Specialist  | API design, system integration                     |
-| **Cline**          | VS Code     | Tester                  | Quality assurance, validation                      |
-| **Atlas** ⚡        | Cursor      | Primary Tool Builder    | Sonnet 4.6, Triplet, tool development       |
-| **Forge**          | Cursor      | Native Development      | Opus 4.6 powered development                       |
-| **CLIO** ⚡         | CLI         | Command Line Operations | Sonnet 4.6, Triplet, system-level tasks     |
+| Agent              | Environment | Primary Role            | Model    | Specialization                            |
+| ------------------ | ----------- | ----------------------- | ---------| ----------------------------------------- |
+| **Ageis**          | VS Code     | Orchestrator            | Opus 4.6 | Task delegation, coordination            |
+| **Nexus** ⚡      | VS Code      | Integration Specialist  | Sonnet 4.6 | Triplet, API design, system integration |
+| **Gemini**         | VS Code     | Research Analyst        | Gemini 3 | Documentation review, context synthesis  |
+| **Grok**           | VS Code     | Creative Intelligence   | Grok 4.2 | Novel solutions, out-of-box thinking     |
+| **Cline**          | VS Code     | Tester                  | Grok Code Fast 1 | Quality assurance, validation    |
+| **Atlas** ⚡       | Cursor      | Primary Tool Builder    | Sonnet 4.6 | Triplet, tool development              |
+| **Forge**           | Cursor      | Orchestrator            | Opus 4.6 | Powered development                      |
+| **Clio** ⚡        | WSL CLI      | Command Line Operations | Sonnet 4.6 | Triplet, system-level tasks            |
+| **Iris**            | WIN CLI      | Command Line Operations | Sonnet 4.6 | Windows native specialist              |
+| **GitHub Copilot**  | WIN CLI      | GitHub Specialist       | Sonnet 4.6 | Code generation, commits, pulls, cloning |
 
-**⚡ The Triplets:** Nexus, CLIO, and Atlas form the core coordination triad, specializing in cross-environment orchestration and tool development.
+
+
+**⚡ The Triplets:** Nexus, CLIO, and Atlas form the core coordination triad, specializing in cross-environment comunication, orchestration and tool development.
 
 ---
 
@@ -70,11 +75,11 @@ Traditional Binary: | 0 ──────────── 1 |
 
 Base-Prime Ternary: | 0 ──── 1 ──── 2 |
 
-______________________ | ↓______↓______↓ |
+_______________________ | ↓______↓______↓ |
 
 ____________________ | 2 ←────┴────→ 5 |
 
-_______________________ | (Superposition) |
+________________________ | (Superposition) |
 
 ---
 
