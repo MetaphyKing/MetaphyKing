@@ -1,5 +1,16 @@
 <!-- RANDOM_VIDEO_START -->
-<img width="1500" height="500" alt="Metaphy banner4" src="https://github.com/MetaphyKing/MetaphyKing/blob/main/assets/Metaphy%20banner4.jpg?raw=true" />
+<div align="center">
+  <video src="https://img1.wsimg.com/blobby/go/bbaabe63-6ba9-4c65-a2ee-d538211cda2a/video/Metaphy%20City%20Skyline.mp4"
+    poster="https://img1.wsimg.com/isteam/ip/bbaabe63-6ba9-4c65-a2ee-d538211cda2a/Universal%20Computing%20(2).png/:/rs=w:1160,h:773"
+    muted="muted"
+    autoplay="autoplay"
+    loop="loop"
+    playsinline
+    controlslist="nodownload"
+    style="width: 100%; max-width: 800px; height: auto; border-radius: 10px; display: block;">
+    <img src="https://img1.wsimg.com/isteam/ip/bbaabe63-6ba9-4c65-a2ee-d538211cda2a/Universal%20Computing%20(2).png/:/rs=w:1160,h:773" style="width: 100%; max-width: 800px; border-radius: 10px;">
+  </video>
+</div>
 <!-- RANDOM_VIDEO_END -->
 
 # 👨‍💻 Randell Logan Smith
