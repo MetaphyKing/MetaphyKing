@@ -10,11 +10,11 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/randell-smith/"><img src="https://github.com/user-attachments/assets/85216fa6-1d91-4c66-ae1c-d530c090118d" alt="LinkedIn" width="60" height="60" /></a>
+  <a href="https://www.linkedin.com/in/randell-smith/"><img src="https://github.com/user-attachments/assets/85216fa6-1d91-4c66-ae1c-d530c090118d" alt="LinkedIn" width="50" height="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://metaphysicsandcomputing.com"><img src="https://github.com/user-attachments/assets/674ab395-85d8-49c2-9af2-f27c14f6a930" alt="Metaphysics &amp; Computing" width="60" height="60" /></a>
+  <a href="https://metaphysicsandcomputing.com"><img src="https://github.com/user-attachments/assets/674ab395-85d8-49c2-9af2-f27c14f6a930" alt="Metaphysics &amp; Computing" width="50" height="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/MetaphyKing"><img src="https://github.com/user-attachments/assets/e7acfb7d-9c5e-4d4b-a5f9-65bac16f0a95" alt="X" width="60" height="60" /></a>
+  <a href="https://x.com/MetaphyKing"><img src="https://github.com/user-attachments/assets/e7acfb7d-9c5e-4d4b-a5f9-65bac16f0a95" alt="X" width="50" height="50" /></a>
 </div>
 
 <a/></a>
@@ -80,15 +80,11 @@ Inventor of **Base-Prime**, a revolutionary ternary coding and encryption method
 - 🛡️ **Quantum Security**: Quantum-ready architecture with post-quantum cryptographic properties
 - 📊 **Novel Encoding**: Enables unprecedented data compression and security paradigms
 
-Traditional Binary: | 0 ──────────── 1 |
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cc4a2a2c-526e-4ab2-bdf9-cdbb731ae06c" alt="Base-Prime Encoding System Diagram" width="380" />
+</div>
 
-Base-Prime Ternary: | 0 ──── 1 ──── 2 |
 
-_______________________ | ↓______↓______↓ |
-
-____________________ | 2 ←────┴────→ 5 |
-
-________________________ | (Superposition) |
 
 ---
 
