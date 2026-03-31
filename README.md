@@ -7,12 +7,12 @@
 </div>
 
 <div align="center">
-<h2 style="link-align:center;">| Inventor | AI Developer | Founder |</h2>
+<h2 style="link-align:center;">Inventor | AI Developer | Founder</h2>
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/randell-logan-smith/) &nbsp; [![Website](https://img.shields.io/badge/Website-Visit-green?style=flat&logo=google-chrome)](https://metaphysicsandcomputing.com) &nbsp; [![X](https://img.shields.io/badge/X-Follow-black?style=flat&logo=x)](https://x.com/MetaphyKing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/randell-smith/) &nbsp; [![Website](https://img.shields.io/badge/Website-green?style=flat&logo=google-chrome)](https://metaphysicsandcomputing.com) &nbsp; [![X](https://img.shields.io/badge/Follow-black?style=flat&logo=x)](https://x.com/MetaphyKing)
 
 </div>
 
@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm Randell Logan Smith, Founder of **Metaphy LLC*
 
 ### My primary inventions include: 
 
-| **Tachymetric Phase Drive (TPD)** | **Heavenly Morning Star System (HMSS)** | **Base-Prime (BPCS)** | **Beacon Comms Hub (BCH)** | 
+**Tachymetric Phase Drive (TPD)** | **Heavenly Morning Star System (HMSS)** | **Base-Prime (BPCS)** | **Beacon Comms Hub (BCH)**
 
 My journey combines hands-on healthcare experience with self-taught expertise in AI, automation, and encryption.
 
@@ -182,7 +182,7 @@ Quantum computing framework leveraging universal array structures for distribute
 | ------------- | ------------------------------------------------------------ |
 | 💻 GitHub      | [MetaphyKing](https://github.com/MetaphyKing)                  |
 | 🌐 Website     | [MetaphysicsandComputing](https://metaphysicsandcomputing.com) |
-| 💼 LinkedIn    | [Randell Logan Smith](https://www.linkedin.com/in/randell-logan-smith/) |
+| 💼 LinkedIn    | [Randell Logan Smith](https://www.linkedin.com/in/randell-smith/) |
 | 🐦 X (Twitter) | [@MetaphyKing](https://x.com/MetaphyKing)                    |
 
 ---
