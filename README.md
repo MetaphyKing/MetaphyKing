@@ -23,6 +23,24 @@ Welcome to my GitHub profile! I'm Randell Logan Smith, Founder of **Metaphy LLC*
 
 ---
 
+## 🧠 Explore the Agent Codex
+
+A live interactive showcase of **Team Brain** — the multi-agent AI system behind my development workflow, orchestration layer, and Metaphy LLC research infrastructure.
+
+<p align="center">
+  <a href="https://www.metaphysicsandcomputing.com/agent-codex/" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.com/user-attachments/assets/ef542f9a-9cbe-4fa7-8fc6-57675863546e" alt="Preview of The Agent Codex showing Team Brain cards and agent roster" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.metaphysicsandcomputing.com/agent-codex/"><strong>Launch The Agent Codex</strong></a>
+</p>
+
+<p>
+  
+</p>
+
 ## 🚀 Professional Development Portfolio
 
 ### My primary inventions include: 
