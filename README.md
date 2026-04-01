@@ -77,7 +77,7 @@ Inventor of **Base-Prime**, a revolutionary ternary coding and encryption method
 
 - ✨ **Superposition Logic**: 2 and 5 exist in quantum-like superposition
 - 🔄 **Binary-Ternary Bridge**: Designed for seamless progression from binary to ternary systems
-- 🛡️ **Quantum Security**: Quantum-ready architecture with post-quantum cryptographic properties
+- 🛡️ **Quantum Security**: Quantum-ready architecture with [post-quantum cryptographic](https://www.perplexity.ai/page/google-says-quantum-computers-R3np3VYYSxyCdWnNyLiKyQ) properties
 - 📊 **Novel Encoding**: Enables unprecedented data compression and security paradigms
 
 <div align="center">
