@@ -11,9 +11,11 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/randell-smith/"><img src="https://github.com/user-attachments/assets/85216fa6-1d91-4c66-ae1c-d530c090118d" alt="LinkedIn" width="50" height="50" /></a>
+  <a href="https://www.echoisme.ai"><img src="https://github.com/user-attachments/assets/f8dfed61-f0c7-4951-af46-93edd2931ad4" alt="EchoIsMe" width="50" height="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://metaphysicsandcomputing.com"><img src="https://github.com/user-attachments/assets/674ab395-85d8-49c2-9af2-f27c14f6a930" alt="Metaphysics &amp; Computing" width="50" height="50" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/randell-smith/"><img src="https://github.com/user-attachments/assets/85216fa6-1d91-4c66-ae1c-d530c090118d" alt="LinkedIn" width="50" height="50" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/MetaphyKing"><img src="https://github.com/user-attachments/assets/e7acfb7d-9c5e-4d4b-a5f9-65bac16f0a95" alt="X" width="50" height="50" /></a>
 </div>
@@ -198,20 +200,10 @@ Quantum computing framework leveraging universal array structures for distribute
 
 | Platform      | Link                                                         |
 | ------------- | ------------------------------------------------------------ |
-| 🌐 Website <a href="https://www.echoisme.ai"><img src="https://github.com/user-attachments/assets/f8dfed61-f0c7-4951-af46-93edd2931ad4" alt="EchoIsMe" width="25" height="25" /></a>     | [EchoIsMe](https://echoisme.ai): Home of Echo and PRISM     |
-| 🌐 Website <a href="https://www.metaphysicsandcomputing.com"><img src="https://github.com/user-attachments/assets/f8dfed61-f0c7-4951-af46-93edd2931ad4" alt="Metaphysics and Computing" width="25" height="25" /></a>    | [MetaphysicsandComputing](https://metaphysicsandcomputing.com) |
-| 💼 LinkedIn <a href="https://www.linkedin.com/in/randell-smith/"><img src="https://github.com/user-attachments/assets/85216fa6-1d91-4c66-ae1c-d530c090118d" alt="LinkedIn" width="25" height="25" /></a>   | [Randell Logan Smith](https://www.linkedin.com/in/randell-smith/) |
-| 🐦 X (Twitter) <a href="https://x.com/MetaphyKing"><img src="https://github.com/user-attachments/assets/e7acfb7d-9c5e-4d4b-a5f9-65bac16f0a95" alt="X" width="25" height="25" /></a> | [@MetaphyKing](https://x.com/MetaphyKing)                    |
-
-<div align="center">
-   <a href="https://www.echoisme.ai"><img src="https://github.com/user-attachments/assets/f8dfed61-f0c7-4951-af46-93edd2931ad4" alt="EchoIsMe" width="25" height="25" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.metaphysicsandcomputing.com"><img src="https://github.com/user-attachments/assets/f8dfed61-f0c7-4951-af46-93edd2931ad4" alt="Metaphysics and Computing" width="25" height="25" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/randell-smith/"><img src="https://github.com/user-attachments/assets/85216fa6-1d91-4c66-ae1c-d530c090118d" alt="LinkedIn" width="25" height="25" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/MetaphyKing"><img src="https://github.com/user-attachments/assets/e7acfb7d-9c5e-4d4b-a5f9-65bac16f0a95" alt="X" width="25" height="25" /></a>
-</div>
+| <a href="https://www.echoisme.ai"><img src="https://github.com/user-attachments/assets/f8dfed61-f0c7-4951-af46-93edd2931ad4" alt="EchoIsMe" width="25" height="25" /></a>     | [EchoIsMe](https://echoisme.ai): Home of Echo and PRISM     |
+| <a href="https://metaphysicsandcomputing.com"><img src="https://github.com/user-attachments/assets/674ab395-85d8-49c2-9af2-f27c14f6a930" alt="Metaphysics &amp; Computing" width="25" height="25" /></a>    | [MetaphysicsandComputing](https://metaphysicsandcomputing.com) |
+| <a href="https://www.linkedin.com/in/randell-smith/"><img src="https://github.com/user-attachments/assets/85216fa6-1d91-4c66-ae1c-d530c090118d" alt="LinkedIn" width="25" height="25" /></a>   | [Randell Logan Smith](https://www.linkedin.com/in/randell-smith/) |
+| <a href="https://x.com/MetaphyKing"><img src="https://github.com/user-attachments/assets/e7acfb7d-9c5e-4d4b-a5f9-65bac16f0a95" alt="X" width="25" height="25" /></a> | [@MetaphyKing](https://x.com/MetaphyKing)                    |
 
 ---
 
