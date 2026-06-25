@@ -198,7 +198,7 @@ Quantum computing framework leveraging universal array structures for distribute
 
 | Platform      | Link                                                         |
 | ------------- | ------------------------------------------------------------ |
-| 💻 GitHub      | [MetaphyKing](https://github.com/MetaphyKing)                  |
+| 🌐 Website     | [EchoIsMe](https://echoisme.ai): Home of Echo and PRISM     |
 | 🌐 Website     | [MetaphysicsandComputing](https://metaphysicsandcomputing.com) |
 | 💼 LinkedIn    | [Randell Logan Smith](https://www.linkedin.com/in/randell-smith/) |
 | 🐦 X (Twitter) | [@MetaphyKing](https://x.com/MetaphyKing)                    |
