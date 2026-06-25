@@ -203,6 +203,16 @@ Quantum computing framework leveraging universal array structures for distribute
 | 💼 LinkedIn    | [Randell Logan Smith](https://www.linkedin.com/in/randell-smith/) |
 | 🐦 X (Twitter) | [@MetaphyKing](https://x.com/MetaphyKing)                    |
 
+<div align="center">
+   <a href="https://www.echoisme.ai"><img src="https://github.com/user-attachments/assets/f8dfed61-f0c7-4951-af46-93edd2931ad4" alt="EchoIsMe" width="25" height="25" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.metaphysicsandcomputing.com"><img src="https://github.com/user-attachments/assets/f8dfed61-f0c7-4951-af46-93edd2931ad4" alt="Metaphysics and Computing" width="25" height="25" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/randell-smith/"><img src="https://github.com/user-attachments/assets/85216fa6-1d91-4c66-ae1c-d530c090118d" alt="LinkedIn" width="25" height="25" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/MetaphyKing"><img src="https://github.com/user-attachments/assets/e7acfb7d-9c5e-4d4b-a5f9-65bac16f0a95" alt="X" width="25" height="25" /></a>
+</div>
+
 ---
 
 <div align="center">
