@@ -2,6 +2,7 @@
   <img src="https://raw.githubusercontent.com/MetaphyKing/MetaphyKing/main/assets/metaphycity-hero.webp" alt="Metaphy City" width="100%" style="max-width: 1200px;">
 </div>
 
+---
 
 <div align="center">
 <h1 style="text-align:center;">🧑‍💻 Randell Logan Smith</h1>
