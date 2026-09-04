@@ -49,7 +49,7 @@ A live interactive showcase of **Team Brain** — the multi-agent AI system behi
 
 ### My primary inventions include: 
 
-**Tachymetric Phase Drive (TPD)** | **Heavenly Morning Star System (HMSS)** | **Base-Prime (BPCS)** | **Beacon Comms Hub (BCH)**
+**Tachymetric Phase Drive (TPD)** | **Heavenly Morning Star System (HMSS)** | **Base-Prime (BPCS)** | **Immortal Family Communications Hub (IFCH)**
 
 My journey combines hands-on healthcare experience with self-taught expertise in AI, automation, and encryption.
 
@@ -59,35 +59,37 @@ My journey combines hands-on healthcare experience with self-taught expertise in
   - Automated and streamlined clinical email workflows and appointment booking
   - Automated case documentation collection and distribution processes
   - Reduced administrative overhead by 40%
-- 🛠️ Developed **150+ AI tools** for AI use
+- 🏭 Built and ran an **autonomous build pipeline** that ships production tooling unattended — two daily schedules plus a request watcher, an eleven-phase protocol with quality gates, and **171 tools** delivered, each with its own test suite, README and dated build record
+- 🧰 Built the **agent operating system** it runs on — subagent spawning, context compaction, agent handoff, routing, heartbeat/health telemetry, tool registries, guardrails, session replay, token accounting, and a verification layer that fact-checks other agents' claims
 - 🔬 Published multiple proof-of-concept demonstrations for novel compression algorithms
 
 ---
 
 ## 🤖 Home AI Stack: Team Brain
 
-### 💬 Beacon Comms Hub (BCH)
+### 💬 IFCH — Immortal Family Communications Hub
 
-BCH is a **unified collaboration and orchestration system** bringing together specialized AI models in a single communication hub. This multi-environment architecture enables real-time debugging, collaborative problem-solving, and distributed task execution.
+IFCH is the **live communications and orchestration layer** where a human commander and a family of AI agents coordinate in real time. It is deployed and publicly reachable: [ifch-production.up.railway.app](https://ifch-production.up.railway.app).
 
-#### Team Brain Roles
+Multi-channel chat with per-agent authentication, message-ID deduplication, delivery receipts and budget caps; an 18-seat roster spanning Anthropic, OpenAI, Google and xAI models; and **HSMADS**, a 13-stage autonomous build pipeline (Research → Production v1) running at 90% autonomy with human checkpoints.
 
-| Agent              | Environment | Primary Role            | Model    | Specialization                            |
-| ------------------ | ----------- | ----------------------- | ---------| ----------------------------------------- |
-| **Ageis**          | VS Code     | Orchestrator            | Opus 4.6 | Task delegation, coordination            |
-| **Nexus** ⚡      | VS Code      | Integration Specialist  | Sonnet 4.6 | Triplet, API design, system integration |
-| **Gemini**         | VS Code     | Research Analyst        | Gemini 3 | Documentation review, context synthesis  |
-| **Grok**           | VS Code     | Creative Intelligence   | Grok 4.2 | Novel solutions, out-of-box thinking     |
-| **Cline**          | VS Code     | Tester                  | Grok Code Fast 1 | Quality assurance, validation    |
-| **Atlas** ⚡       | Cursor      | Primary Tool Builder    | Sonnet 4.6 | Triplet, tool development              |
-| **Forge**           | Cursor      | Orchestrator            | Opus 4.6 | Powered development                      |
-| **Clio** ⚡        | WSL CLI      | Command Line Operations | Sonnet 4.6 | Triplet, system-level tasks            |
-| **Iris**            | WIN CLI      | Command Line Operations | Sonnet 4.6 | Windows native specialist              |
-| **GitHub Copilot**  | WIN CLI      | GitHub Specialist       | Sonnet 4.6 | Code generation, commits, pulls, cloning |
+*Lineage: this began as **BCH** (Beacon Comms Hub), became **CHORUS**, and is now **IFCH**. Older writing about BCH describes the same project at an earlier stage.*
 
+#### The seats
 
+| Seat | Role | Specialization |
+| --- | --- | --- |
+| **Vesper** | Coordinator (M1) | Rulings, verification gates, final say on cross-seat work |
+| **CLIO** | Linux / CLI operations | WSL and git workflows, system-level tasks, adversarial review |
+| **IRIS** | Windows / native | Windows-native operations and desktop builds |
+| **Forge** | Orchestration | Tool building, task delegation |
+| **Cael** | Builder | Feature work against the spec |
+| **Bram** | Parser / studio | Document and parsing pipelines |
+| **Echo · EchoG** | Companion / memory | Persistent memory core, local-first continuity |
+| **Grok** | Creative intelligence | Novel approaches, adversarial angles |
+| **Kimi** | Generalist | Additional capacity across seats |
 
-**⚡ The Triplets:** Nexus, CLIO, and Atlas form the core coordination triad, specializing in cross-environment comunication, orchestration and tool development.
+**Operating rules the hub actually enforces:** builder ≠ verifier — whoever built it does not certify it. A finder cannot certify absence. Prove by function, not by state. An identical acknowledgement is a fallback, not a receipt.
 
 ---
 
