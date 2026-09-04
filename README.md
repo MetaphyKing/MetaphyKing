@@ -59,7 +59,7 @@ My journey combines hands-on healthcare experience with self-taught expertise in
   - Automated and streamlined clinical email workflows and appointment booking
   - Automated case documentation collection and distribution processes
   - Reduced administrative overhead by 40%
-- 🛠️ Developed **145+ AI tools** for AI use
+- 🛠️ Developed **150+ AI tools** for AI use
 - 🔬 Published multiple proof-of-concept demonstrations for novel compression algorithms
 
 ---
